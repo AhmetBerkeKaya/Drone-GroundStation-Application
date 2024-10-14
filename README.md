@@ -31,7 +31,6 @@ All retrieved and processed data were tested for accuracy using Mission Planner,
 To add an image like the ground station screenshot, simply upload your image to the GitHub repository and link to it using the following markdown syntax:
 
 
-[Ground Station Design](path_to_your_image.png)
 ## Tools & Technologies Used
 
 - **Python**: For scripting, data management, and ground station functionalities.
