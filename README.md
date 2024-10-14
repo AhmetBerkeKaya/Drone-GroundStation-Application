@@ -33,10 +33,12 @@ To add an image like the ground station screenshot, simply upload your image to 
 
 [Ground Station Design](path_to_your_image.png)
 ## Tools & Technologies Used
--Python: For scripting, data management, and ground station functionalities.
--PyQt5: For creating the graphical user interface (GUI) of the ground station.
--HTML & JavaScript: To embed and interact with OpenStreetMap for real-time mapping.
--Canva: For custom ground station interface design.
--OpenStreetMap: For real-time mapping and location tracking.
--OpenWeatherMap API: To retrieve weather and wind data for enhanced flight safety.
--Mission Planner: To test and verify the accuracy of drone data and weather conditions.
+
+- **Python**: For scripting, data management, and ground station functionalities.
+- **PyQt5**: For creating the graphical user interface (GUI) of the ground station.
+- **HTML & JavaScript**: To embed and interact with OpenStreetMap for real-time mapping.
+- **Canva**: For custom ground station interface design.
+- **OpenStreetMap**: For real-time mapping and location tracking.
+- **OpenWeatherMap API**: To retrieve weather and wind data for enhanced flight safety.
+- **Mission Planner**: To test and verify the accuracy of drone data and weather conditions.
+
